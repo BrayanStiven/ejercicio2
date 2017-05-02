@@ -31,10 +31,10 @@ public class Ejercicio2 {
                   }
         }
         r=(JOptionPane.showInputDialog("1)contiunar \n 2)salir")).charAt(0);  
-    }while(r=='1');    
-    hello
+    }while(r=='1');   
     }
   }
     
 //*hola joli holo //*
-//que mas¿?...
+//que mas¿?...+
+//Holamundo
