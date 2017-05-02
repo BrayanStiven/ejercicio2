@@ -32,11 +32,9 @@ public class Ejercicio2 {
         }
         r=(JOptionPane.showInputDialog("1)contiunar \n 2)salir")).charAt(0);  
     }while(r=='1');    
+    hello
     }
   }
     
 //*hola joli holo //*
 //que mas¿?...
-//Holaaaaaaaaaaaaaaaaaaaaaaaaaaaa321321
-//JeanKrlo me cae mal
-sdfsfds
